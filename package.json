@@ -2,7 +2,7 @@
   "name": "crackittuition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://innovateium.github.io/crackittuition-site",
+  "homepage": "https://innovateium.github.io/",
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",
